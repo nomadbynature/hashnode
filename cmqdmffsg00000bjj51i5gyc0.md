@@ -1,5 +1,5 @@
 ---
-title: "Królestwo Przekąsek w największym na świecie sklepie z przekąskami"
+title: "Królestwo Przekąsek - w największym na świecie sklepie z przekąskami"
 seoTitle: "Królestwo Przysmaków w mieście Changsha"
 seoDescription: "Wizyta w największym sklepie z przekąskami na świecie w Changsha (Rekord Guinnessa). Kolorowy zawrót głowy, morze żelków i zupek. Zobacz wideo!"
 datePublished: 2026-06-14T10:08:03.014Z
